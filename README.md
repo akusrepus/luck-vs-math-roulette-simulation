@@ -4,7 +4,7 @@
 This project simulates roulette outcomes to visualize the inevitable losses players experience over time.  
 The main motivation is to demonstrate that there is no winning strategy in a casino—the house always wins in the long run.
 
-##(You can find the result at the end of Roulette Strategies.ipynb file!)
+## (You can find the result at the end of Roulette Strategies.ipynb file!)
 
 The simulation includes:
 - **Three strategies**:  
